@@ -8,7 +8,7 @@
 template<typename T>
 class Vector2D {
 public:
-	Vector2D(); //Default cóntructor
+	Vector2D(); //Default contructor
 	Vector2D(T X, T Y); //Thay tọa độ cụ thể
 	template<typename U>
 	explicit Vector2D(const Vector2D<U>& vector); //Chuyển từ kiểu từ vector2D<int> sang vector2D<float>
