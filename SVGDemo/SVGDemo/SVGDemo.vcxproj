@@ -152,6 +152,7 @@
     <ClInclude Include="Ellipse.h" />
     <ClInclude Include="Gradient.h" />
     <ClInclude Include="rapidxml.hpp" />
+    <ClInclude Include="Rectangle.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="SVGDemo.h" />
@@ -164,6 +165,7 @@
     <ClCompile Include="ColorShape.cpp" />
     <ClCompile Include="Ellipse.cpp" />
     <ClCompile Include="Gradient.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
