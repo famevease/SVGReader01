@@ -126,7 +126,7 @@ public:
      * @note This function is used for debugging purposes.
      * @note This function is virtual and can be overridden by derived classes.
      */
-    virtual void printData() const;
+    //virtual void printData() const;
 
     /**
      * @brief Sets the transformations of the shape.

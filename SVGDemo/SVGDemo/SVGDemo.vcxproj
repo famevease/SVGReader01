@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Circle.h" />
     <ClInclude Include="ColorShape.h" />
     <ClInclude Include="Ellipse.h" />
     <ClInclude Include="Gradient.h" />
@@ -159,6 +160,7 @@
     <ClInclude Include="Vector2D.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Circle.cpp" />
     <ClCompile Include="ColorShape.cpp" />
     <ClCompile Include="Ellipse.cpp" />
     <ClCompile Include="Gradient.cpp" />
