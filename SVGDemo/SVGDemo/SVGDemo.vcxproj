@@ -153,6 +153,7 @@
     <ClInclude Include="SVGDemo.h" />
     <ClInclude Include="SVGElement.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Vector2D.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
